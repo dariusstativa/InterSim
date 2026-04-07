@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4baf1060_002Dedf8_002D40c3_002Db393_002D12c1893139d0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BehavioralEvaluatorV1Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B2120ED6-3B84-44C7-8A46-35E255DDC24E::net10.0::InterSim.Tests.Evaluation.BehavioralEvaluatorV1Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B2120ED6-3B84-44C7-8A46-35E255DDC24E::net10.0::InterSim.Tests.Evaluation.HeuristicFeedbackEngineV1Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B2120ED6-3B84-44C7-8A46-35E255DDC24E::net10.0::InterSim.Tests.Repositories.AnswerRepositoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B2120ED6-3B84-44C7-8A46-35E255DDC24E::net10.0::InterSim.Tests.Handlers.SubmitAnswerHandlerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

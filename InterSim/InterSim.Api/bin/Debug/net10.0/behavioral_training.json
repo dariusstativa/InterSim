@@ -1,0 +1,1802 @@
+[
+  {
+    "SampleId": "105697f4-e4ff-460f-98f6-5c56cb6ffc56",
+    "Features": {
+      "SimQA": 0.5355974167595324,
+      "MaxChunkSim": 0.4467540393693533,
+      "AvgTopChunkSim": 0.4100353398017013,
+      "Situation": 0.25369205412124707,
+      "Task": 0.2249979000650421,
+      "Action": 0.3575028281436369,
+      "Result": 0.3848806758193978,
+      "Reflection": 0.3648816302173848,
+      "WordCount": 107,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 87
+  },
+  {
+    "SampleId": "10a33ae9-53bb-4971-9285-d0ab8b0a958d",
+    "Features": {
+      "SimQA": 0.5408462405355007,
+      "MaxChunkSim": 0.5408462405355007,
+      "AvgTopChunkSim": 0.5408462405355007,
+      "Situation": 0.24693902932079148,
+      "Task": 0.41082123555737127,
+      "Action": 0.33945352690761343,
+      "Result": 0.19877805406195578,
+      "Reflection": 0.31329692357692335,
+      "WordCount": 24,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 30
+  },
+  {
+    "SampleId": "10e56b9d-f779-4b59-9bb4-758940941cc2",
+    "Features": {
+      "SimQA": 0.4362932369421294,
+      "MaxChunkSim": 0.4076034276117384,
+      "AvgTopChunkSim": 0.36248659395353783,
+      "Situation": 0.26897964879305514,
+      "Task": 0.2906383474965449,
+      "Action": 0.34390128568132,
+      "Result": 0.23972562404601427,
+      "Reflection": 0.36374617278918,
+      "WordCount": 70,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 82
+  },
+  {
+    "SampleId": "122b676b-5ac1-4220-a7b1-15998e7c0ae6",
+    "Features": {
+      "SimQA": 0.2656485058150075,
+      "MaxChunkSim": 0.26563262291257,
+      "AvgTopChunkSim": 0.26563262291257,
+      "Situation": 0.18354463487296602,
+      "Task": 0.04268725443880837,
+      "Action": 0.18713569429905563,
+      "Result": 0.07121755189093051,
+      "Reflection": 0.17890720551057407,
+      "WordCount": 14,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 8
+  },
+  {
+    "SampleId": "12ad0d6f-ae34-47ec-8860-676c786ab6eb",
+    "Features": {
+      "SimQA": 0.4956670716436345,
+      "MaxChunkSim": 0.4816877021956424,
+      "AvgTopChunkSim": 0.40825308817779266,
+      "Situation": 0.22446432419596343,
+      "Task": 0.22991768911718063,
+      "Action": 0.33527036046306724,
+      "Result": 0.22011312216039514,
+      "Reflection": 0.33969181202933996,
+      "WordCount": 72,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 1
+    },
+    "TargetTotalScore": 90
+  },
+  {
+    "SampleId": "12e2739e-343a-4fc6-848e-50d14d389cfd",
+    "Features": {
+      "SimQA": 0.4848671030673951,
+      "MaxChunkSim": 0.47468175286041486,
+      "AvgTopChunkSim": 0.3938825806906773,
+      "Situation": 0.30240319028162765,
+      "Task": 0.30954189466764476,
+      "Action": 0.3332897411282173,
+      "Result": 0.23212298642388507,
+      "Reflection": 0.3041941726396917,
+      "WordCount": 43,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 71
+  },
+  {
+    "SampleId": "2fccbded-7ad3-4898-91bc-c914ac26809d",
+    "Features": {
+      "SimQA": 0.338410174840538,
+      "MaxChunkSim": 0.33836371708877305,
+      "AvgTopChunkSim": 0.33836371708877305,
+      "Situation": 0.1280437361155718,
+      "Task": 0.0686183197499425,
+      "Action": 0.19652959902897765,
+      "Result": 0.09532712711242877,
+      "Reflection": 0.32097421171278034,
+      "WordCount": 20,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 23
+  },
+  {
+    "SampleId": "30384fd7-063b-47ae-88c8-5bd9ed1b4451",
+    "Features": {
+      "SimQA": 0.45132500522388475,
+      "MaxChunkSim": 0.4125962915655611,
+      "AvgTopChunkSim": 0.3259569362631723,
+      "Situation": 0.3633328247827956,
+      "Task": 0.24565723965012815,
+      "Action": 0.3203083356412089,
+      "Result": 0.3158279587877404,
+      "Reflection": 0.2828720812130847,
+      "WordCount": 98,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 83
+  },
+  {
+    "SampleId": "312da983-9449-4307-9d0e-36c7c153b215",
+    "Features": {
+      "SimQA": 0.43946378184482193,
+      "MaxChunkSim": 0.44757820422815714,
+      "AvgTopChunkSim": 0.3780489092201718,
+      "Situation": 0.28123962156182025,
+      "Task": 0.30216367871795907,
+      "Action": 0.41288577856317427,
+      "Result": 0.3129735569733139,
+      "Reflection": 0.3555582223357142,
+      "WordCount": 62,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 88
+  },
+  {
+    "SampleId": "31f26253-1250-4e64-9f07-6342f6f46eb1",
+    "Features": {
+      "SimQA": 0.15134534470310038,
+      "MaxChunkSim": 0.15134534470310038,
+      "AvgTopChunkSim": 0.15134534470310038,
+      "Situation": 0.1417616917058274,
+      "Task": 0.07432829492406892,
+      "Action": 0.17428883282725138,
+      "Result": 0.1086586239671917,
+      "Reflection": 0.18499397473749682,
+      "WordCount": 16,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 15
+  },
+  {
+    "SampleId": "1518b825-1fb2-40a3-a5e5-b9479859d0b0",
+    "Features": {
+      "SimQA": 0.37932467955405463,
+      "MaxChunkSim": 0.37932467955405463,
+      "AvgTopChunkSim": 0.37932467955405463,
+      "Situation": 0.2890232749358872,
+      "Task": 0.24445900193840386,
+      "Action": 0.2924023578663864,
+      "Result": 0.15630232385623127,
+      "Reflection": 0.32312398953597377,
+      "WordCount": 27,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 24
+  },
+  {
+    "SampleId": "6cbcb5b7-ce5e-49f8-9ebb-ab2b3965423f",
+    "Features": {
+      "SimQA": 0.34039513315953085,
+      "MaxChunkSim": 0.340099460432437,
+      "AvgTopChunkSim": 0.2822044360524847,
+      "Situation": 0.1564088911175756,
+      "Task": 0.15290118737518152,
+      "Action": 0.26808666608780096,
+      "Result": 0.16235821802946865,
+      "Reflection": 0.1564873767441163,
+      "WordCount": 51,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 63
+  },
+  {
+    "SampleId": "7b3b8fba-64e8-4556-8921-f7aadc399dd4",
+    "Features": {
+      "SimQA": 0.6015890003757208,
+      "MaxChunkSim": 0.601557193363342,
+      "AvgTopChunkSim": 0.601557193363342,
+      "Situation": 0.19739289095155044,
+      "Task": 0.2923311037541437,
+      "Action": 0.3832445646186241,
+      "Result": 0.29395961314575103,
+      "Reflection": 0.5112506899832184,
+      "WordCount": 9,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 16
+  },
+  {
+    "SampleId": "8933cf18-aafe-4525-be82-300bca1cedde",
+    "Features": {
+      "SimQA": 0.6348838868060033,
+      "MaxChunkSim": 0.5590127126576326,
+      "AvgTopChunkSim": 0.5077825302923391,
+      "Situation": 0.29391721613423977,
+      "Task": 0.26800947205517617,
+      "Action": 0.3127866892675627,
+      "Result": 0.24234340874246432,
+      "Reflection": 0.3790185813740822,
+      "WordCount": 59,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 76
+  },
+  {
+    "SampleId": "8c54d580-e10b-4280-ad11-e46780f9c1f0",
+    "Features": {
+      "SimQA": 0.5536853860357921,
+      "MaxChunkSim": 0.4887244622292982,
+      "AvgTopChunkSim": 0.443922768764126,
+      "Situation": 0.20396742804568077,
+      "Task": 0.3657396424700539,
+      "Action": 0.3636395856768499,
+      "Result": 0.28606074420227456,
+      "Reflection": 0.3291692907143625,
+      "WordCount": 80,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 95
+  },
+  {
+    "SampleId": "0715916e-48b1-4257-8fe9-3b09c14c3a42",
+    "Features": {
+      "SimQA": 0.6037168728789009,
+      "MaxChunkSim": 0.6037724806190846,
+      "AvgTopChunkSim": 0.6037724806190846,
+      "Situation": 0.21788070212685876,
+      "Task": 0.3760402490137219,
+      "Action": 0.3188595582959252,
+      "Result": 0.22357255432617462,
+      "Reflection": 0.3111948110794155,
+      "WordCount": 25,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 29
+  },
+  {
+    "SampleId": "008a9b7f-9e8c-406e-98cc-98de19fc32c9",
+    "Features": {
+      "SimQA": 0.5389545315739382,
+      "MaxChunkSim": 0.4331998899143172,
+      "AvgTopChunkSim": 0.387109998933355,
+      "Situation": 0.2834331906403527,
+      "Task": 0.310174356082251,
+      "Action": 0.35566754408693535,
+      "Result": 0.27567651037696705,
+      "Reflection": 0.3803484091885896,
+      "WordCount": 77,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 1
+    },
+    "TargetTotalScore": 81
+  },
+  {
+    "SampleId": "008ae6e6-0233-4c8b-a90c-a2ab9a99ae23",
+    "Features": {
+      "SimQA": 0.603500592642402,
+      "MaxChunkSim": 0.5842888778218478,
+      "AvgTopChunkSim": 0.5529554225826,
+      "Situation": 0.23987646345213864,
+      "Task": 0.28679468692719395,
+      "Action": 0.4174371244504582,
+      "Result": 0.39179958597121656,
+      "Reflection": 0.36128043391335274,
+      "WordCount": 111,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 84
+  },
+  {
+    "SampleId": "00a92139-22f8-4531-9d67-1c2eb2b21c6a",
+    "Features": {
+      "SimQA": 0.41603258663826087,
+      "MaxChunkSim": 0.361124474462378,
+      "AvgTopChunkSim": 0.2904937956228707,
+      "Situation": 0.19857938663366048,
+      "Task": 0.24380531136812716,
+      "Action": 0.2992467094430547,
+      "Result": 0.2730099216885507,
+      "Reflection": 0.24750983320160785,
+      "WordCount": 49,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 70
+  },
+  {
+    "SampleId": "053eceeb-341d-4ffc-b491-ce90940774d3",
+    "Features": {
+      "SimQA": 0.5782655939822922,
+      "MaxChunkSim": 0.5128143553218822,
+      "AvgTopChunkSim": 0.5048631672099633,
+      "Situation": 0.2905904164594596,
+      "Task": 0.3945792608741381,
+      "Action": 0.37902738315353107,
+      "Result": 0.32563040056532827,
+      "Reflection": 0.3216013616836046,
+      "WordCount": 60,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 74
+  },
+  {
+    "SampleId": "05801ed3-2846-4c5b-ae57-eada5ecdf35c",
+    "Features": {
+      "SimQA": 0.472265571008521,
+      "MaxChunkSim": 0.472265571008521,
+      "AvgTopChunkSim": 0.472265571008521,
+      "Situation": 0.211384237739974,
+      "Task": 0.20078026138454058,
+      "Action": 0.3352270459016558,
+      "Result": 0.27028380306814287,
+      "Reflection": 0.2975885481763589,
+      "WordCount": 13,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 34
+  },
+  {
+    "SampleId": "0709683a-c76f-41d6-aaa1-262b301034f4",
+    "Features": {
+      "SimQA": 0.4265049796629708,
+      "MaxChunkSim": 0.42329515480417107,
+      "AvgTopChunkSim": 0.3524369108738724,
+      "Situation": 0.2615507554032898,
+      "Task": 0.26110280107046546,
+      "Action": 0.3324395880105294,
+      "Result": 0.261091925618421,
+      "Reflection": 0.2679398127209137,
+      "WordCount": 43,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 67
+  },
+  {
+    "SampleId": "0875c69a-bd71-4cde-b89c-e21941695618",
+    "Features": {
+      "SimQA": 0.39350295436840604,
+      "MaxChunkSim": 0.34087994533266625,
+      "AvgTopChunkSim": 0.3401546085451592,
+      "Situation": 0.2594193369215233,
+      "Task": 0.22948577254021363,
+      "Action": 0.3673472172657614,
+      "Result": 0.29102856596015764,
+      "Reflection": 0.39514964508089756,
+      "WordCount": 57,
+      "ActionVerbHits": 2,
+      "HasFirstPerson": 1,
+      "HasMetrics": 1
+    },
+    "TargetTotalScore": 88
+  },
+  {
+    "SampleId": "09293f62-c154-447f-8ab3-a17c63fd759c",
+    "Features": {
+      "SimQA": 0.4076953157924766,
+      "MaxChunkSim": 0.4057577003360921,
+      "AvgTopChunkSim": 0.35856038793415324,
+      "Situation": 0.26457961054356915,
+      "Task": 0.32432722827240806,
+      "Action": 0.40982563510473946,
+      "Result": 0.3620714656230315,
+      "Reflection": 0.4337727840124279,
+      "WordCount": 45,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 80
+  },
+  {
+    "SampleId": "0e8cf196-6cf7-427a-9e95-475ef767b940",
+    "Features": {
+      "SimQA": 0.6555125409272398,
+      "MaxChunkSim": 0.6067684781933482,
+      "AvgTopChunkSim": 0.5213212151015852,
+      "Situation": 0.2884077076989884,
+      "Task": 0.3347656285024977,
+      "Action": 0.3697133879632364,
+      "Result": 0.36680702204081395,
+      "Reflection": 0.29250425653948076,
+      "WordCount": 51,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 70
+  },
+  {
+    "SampleId": "13132d79-8d48-4658-bb31-d40a934fb7c6",
+    "Features": {
+      "SimQA": 0.5470645360145276,
+      "MaxChunkSim": 0.5160160881842322,
+      "AvgTopChunkSim": 0.4507802247066097,
+      "Situation": 0.24497112113052566,
+      "Task": 0.23942920633195283,
+      "Action": 0.3529904320890883,
+      "Result": 0.27732729441107073,
+      "Reflection": 0.40788416280620654,
+      "WordCount": 54,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 81
+  },
+  {
+    "SampleId": "137d3b0b-0cc8-4329-8242-cd6b11a2b3a1",
+    "Features": {
+      "SimQA": 0.5168075555843394,
+      "MaxChunkSim": 0.49295509261882375,
+      "AvgTopChunkSim": 0.44336493999932464,
+      "Situation": 0.28581260862424906,
+      "Task": 0.3728396818174102,
+      "Action": 0.4269533545122725,
+      "Result": 0.304643406226096,
+      "Reflection": 0.3862607684758159,
+      "WordCount": 66,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 1
+    },
+    "TargetTotalScore": 89
+  },
+  {
+    "SampleId": "1815983e-f43e-4bf7-b9d8-99de25bfa529",
+    "Features": {
+      "SimQA": 0.45161265608395607,
+      "MaxChunkSim": 0.45161265608395607,
+      "AvgTopChunkSim": 0.45161265608395607,
+      "Situation": 0.23347869966677168,
+      "Task": 0.4741611711661095,
+      "Action": 0.3133454480864583,
+      "Result": 0.20159515477402734,
+      "Reflection": 0.20932044856635731,
+      "WordCount": 27,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 29
+  },
+  {
+    "SampleId": "18f6bbfe-dac7-47b5-b78c-e29ae770e1ad",
+    "Features": {
+      "SimQA": 0.41436536019450054,
+      "MaxChunkSim": 0.3990917824269048,
+      "AvgTopChunkSim": 0.39481610372036524,
+      "Situation": 0.2672902184087736,
+      "Task": 0.3891490068817342,
+      "Action": 0.4162483150692893,
+      "Result": 0.30547538976657507,
+      "Reflection": 0.41648155603279674,
+      "WordCount": 60,
+      "ActionVerbHits": 2,
+      "HasFirstPerson": 1,
+      "HasMetrics": 1
+    },
+    "TargetTotalScore": 91
+  },
+  {
+    "SampleId": "1a2100df-c04b-40f2-be26-ca109d01b1dc",
+    "Features": {
+      "SimQA": 0.24601741783088232,
+      "MaxChunkSim": 0.24601741783088232,
+      "AvgTopChunkSim": 0.24601741783088232,
+      "Situation": 0.1657309004588093,
+      "Task": 0.19002006992407514,
+      "Action": 0.21678725185257203,
+      "Result": 0.13733270758616284,
+      "Reflection": 0.21446633679502092,
+      "WordCount": 17,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 25
+  },
+  {
+    "SampleId": "1cf8ae64-b051-4b43-b498-b859b70b1c90",
+    "Features": {
+      "SimQA": 0.10890018034156898,
+      "MaxChunkSim": 0.10890018034156898,
+      "AvgTopChunkSim": 0.10890018034156898,
+      "Situation": 0.0780084855582979,
+      "Task": 0.0014583851179370507,
+      "Action": 0.147449020900232,
+      "Result": 0.03999185487674517,
+      "Reflection": 0.13625757224561127,
+      "WordCount": 11,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 7
+  },
+  {
+    "SampleId": "1dcfcc80-9032-468d-ab35-0a1daf170822",
+    "Features": {
+      "SimQA": 0.5677610562830213,
+      "MaxChunkSim": 0.5677610562830213,
+      "AvgTopChunkSim": 0.5677610562830213,
+      "Situation": 0.28302078606567005,
+      "Task": 0.41530860994938756,
+      "Action": 0.3820272596379521,
+      "Result": 0.21111132986229217,
+      "Reflection": 0.2646976314398341,
+      "WordCount": 32,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 29
+  },
+  {
+    "SampleId": "2049afbf-b2e2-48a3-b015-51f0cf68e710",
+    "Features": {
+      "SimQA": 0.5613940099690883,
+      "MaxChunkSim": 0.5686920295665255,
+      "AvgTopChunkSim": 0.42289900453570484,
+      "Situation": 0.258960069099942,
+      "Task": 0.3483612749021142,
+      "Action": 0.3699060991750719,
+      "Result": 0.3868548584425145,
+      "Reflection": 0.34616580830401406,
+      "WordCount": 42,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 73
+  },
+  {
+    "SampleId": "25f7a9e5-3a22-4756-8b52-927987d13c77",
+    "Features": {
+      "SimQA": 0.3284763281687646,
+      "MaxChunkSim": 0.3284763281687646,
+      "AvgTopChunkSim": 0.3284763281687646,
+      "Situation": 0.17018444947835867,
+      "Task": 0.08136700728587827,
+      "Action": 0.17493051651627886,
+      "Result": 0.11217831618526067,
+      "Reflection": 0.17892053303654085,
+      "WordCount": 22,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 21
+  },
+  {
+    "SampleId": "27a9816e-2591-44ea-949d-55badfbb7405",
+    "Features": {
+      "SimQA": 0.48611434167345263,
+      "MaxChunkSim": 0.4773142592770611,
+      "AvgTopChunkSim": 0.4215292684894776,
+      "Situation": 0.2375252321219053,
+      "Task": 0.24038451632081628,
+      "Action": 0.32226683317234,
+      "Result": 0.25822027256572777,
+      "Reflection": 0.3088991029012183,
+      "WordCount": 57,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 80
+  },
+  {
+    "SampleId": "27dbb8c9-f299-48c4-91a0-5d79228cabbb",
+    "Features": {
+      "SimQA": 0.6395108546126063,
+      "MaxChunkSim": 0.5758035914262254,
+      "AvgTopChunkSim": 0.5343494619120561,
+      "Situation": 0.244522176934035,
+      "Task": 0.3512195001531758,
+      "Action": 0.3582937588196238,
+      "Result": 0.2922532569361356,
+      "Reflection": 0.31521255616486404,
+      "WordCount": 57,
+      "ActionVerbHits": 2,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 84
+  },
+  {
+    "SampleId": "2b4549c3-a83a-4309-b179-faa9210bac63",
+    "Features": {
+      "SimQA": 0.19042464138882234,
+      "MaxChunkSim": 0.19042464138882234,
+      "AvgTopChunkSim": 0.19042464138882234,
+      "Situation": 0.13124836829927766,
+      "Task": 0.17383709911619658,
+      "Action": 0.20290015034060813,
+      "Result": 0.24610548974950416,
+      "Reflection": 0.2057703446240477,
+      "WordCount": 15,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 18
+  },
+  {
+    "SampleId": "2c22b149-9446-4c38-9c1f-6d8fd751f66a",
+    "Features": {
+      "SimQA": 0.36725802463107277,
+      "MaxChunkSim": 0.3486865811954815,
+      "AvgTopChunkSim": 0.3266071091192656,
+      "Situation": 0.21034139296242677,
+      "Task": 0.19172065647284933,
+      "Action": 0.2748742611265713,
+      "Result": 0.2674535640749305,
+      "Reflection": 0.26226824187772757,
+      "WordCount": 50,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 86
+  },
+  {
+    "SampleId": "2d319eb6-556f-431f-874e-b50f9b1e571b",
+    "Features": {
+      "SimQA": 0.45897203803978015,
+      "MaxChunkSim": 0.4459643196138554,
+      "AvgTopChunkSim": 0.4122006405128521,
+      "Situation": 0.2642565592314591,
+      "Task": 0.25892017304310316,
+      "Action": 0.34468623816959254,
+      "Result": 0.3127473899749299,
+      "Reflection": 0.3172140016130236,
+      "WordCount": 45,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 84
+  },
+  {
+    "SampleId": "2da74bb4-a2d4-4b9f-920d-d87ec05573fd",
+    "Features": {
+      "SimQA": 0.46919303854075783,
+      "MaxChunkSim": 0.46289329842678645,
+      "AvgTopChunkSim": 0.42591706372787475,
+      "Situation": 0.26024622912034756,
+      "Task": 0.30178383884651705,
+      "Action": 0.3897725636116543,
+      "Result": 0.25359003110053063,
+      "Reflection": 0.39098811266112776,
+      "WordCount": 63,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 1
+    },
+    "TargetTotalScore": 90
+  },
+  {
+    "SampleId": "32855482-beab-49b6-a710-67dcb42446c8",
+    "Features": {
+      "SimQA": 0.4751709413020267,
+      "MaxChunkSim": 0.46873409117337994,
+      "AvgTopChunkSim": 0.4467247159706711,
+      "Situation": 0.2025113688585745,
+      "Task": 0.33900022134767255,
+      "Action": 0.2731766104513035,
+      "Result": 0.22929913322313694,
+      "Reflection": 0.27236638306581396,
+      "WordCount": 50,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 85
+  },
+  {
+    "SampleId": "338e5196-d060-4c3e-90d7-a65ed212b20e",
+    "Features": {
+      "SimQA": 0.48044262360946527,
+      "MaxChunkSim": 0.4279696724080767,
+      "AvgTopChunkSim": 0.421340482614595,
+      "Situation": 0.24886518776867717,
+      "Task": 0.21685744649827926,
+      "Action": 0.3910823323603855,
+      "Result": 0.23666082629429233,
+      "Reflection": 0.36178472457263355,
+      "WordCount": 65,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 88
+  },
+  {
+    "SampleId": "348699ac-60c8-4bf4-82ad-7beb93cb47fb",
+    "Features": {
+      "SimQA": 0.4717820274858213,
+      "MaxChunkSim": 0.4717820274858213,
+      "AvgTopChunkSim": 0.4717820274858213,
+      "Situation": 0.24500317520006176,
+      "Task": 0.2566275122927659,
+      "Action": 0.30385673031443394,
+      "Result": 0.17599761569435785,
+      "Reflection": 0.31051873944974784,
+      "WordCount": 36,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 82
+  },
+  {
+    "SampleId": "3655883b-0170-4db2-9179-36e356af8615",
+    "Features": {
+      "SimQA": 0.599858478785938,
+      "MaxChunkSim": 0.599858478785938,
+      "AvgTopChunkSim": 0.599858478785938,
+      "Situation": 0.2772413833764654,
+      "Task": 0.26418988530717774,
+      "Action": 0.1985722533266303,
+      "Result": 0.12291091192556612,
+      "Reflection": 0.22266240715622823,
+      "WordCount": 25,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 0,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 28
+  },
+  {
+    "SampleId": "36fb6a56-f7f7-44a6-a005-4d4ca488eff4",
+    "Features": {
+      "SimQA": 0.36038575282489904,
+      "MaxChunkSim": 0.3696586304031933,
+      "AvgTopChunkSim": 0.32533194530635395,
+      "Situation": 0.24956477971823832,
+      "Task": 0.2930936250436383,
+      "Action": 0.3433759536232312,
+      "Result": 0.2465307744160064,
+      "Reflection": 0.3613386450294652,
+      "WordCount": 50,
+      "ActionVerbHits": 2,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 83
+  },
+  {
+    "SampleId": "3d99798f-7733-46fe-9af3-38acaa9ffac5",
+    "Features": {
+      "SimQA": 0.5148023942400665,
+      "MaxChunkSim": 0.5005475786514091,
+      "AvgTopChunkSim": 0.42759749053788987,
+      "Situation": 0.2921948480512793,
+      "Task": 0.32261980345552793,
+      "Action": 0.3070462015390879,
+      "Result": 0.2902844447965033,
+      "Reflection": 0.2800832953017853,
+      "WordCount": 49,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 77
+  },
+  {
+    "SampleId": "3dc135e3-1e30-4360-af55-2b5676f6861c",
+    "Features": {
+      "SimQA": 0.6351636017784232,
+      "MaxChunkSim": 0.6351636017784232,
+      "AvgTopChunkSim": 0.6351636017784232,
+      "Situation": 0.30652837704581637,
+      "Task": 0.2155926403263714,
+      "Action": 0.3691662748109572,
+      "Result": 0.15678699573880583,
+      "Reflection": 0.29725641687293725,
+      "WordCount": 13,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 10
+  },
+  {
+    "SampleId": "4a4377cc-247f-4fc8-8577-9f9650628be0",
+    "Features": {
+      "SimQA": 0.3623300938354396,
+      "MaxChunkSim": 0.3631245826741926,
+      "AvgTopChunkSim": 0.3492832727097528,
+      "Situation": 0.2585839691127366,
+      "Task": 0.2925364764507853,
+      "Action": 0.4084350579457498,
+      "Result": 0.27925137938417316,
+      "Reflection": 0.43423712305437046,
+      "WordCount": 58,
+      "ActionVerbHits": 2,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 89
+  },
+  {
+    "SampleId": "4c5e0e33-53ef-4305-8b0c-9e34c8cea822",
+    "Features": {
+      "SimQA": 0.49946787783379737,
+      "MaxChunkSim": 0.49946787783379737,
+      "AvgTopChunkSim": 0.49946787783379737,
+      "Situation": 0.2859636239271388,
+      "Task": 0.3123385678746336,
+      "Action": 0.3904138764517178,
+      "Result": 0.22561319337720326,
+      "Reflection": 0.353310512173764,
+      "WordCount": 39,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 75
+  },
+  {
+    "SampleId": "4eae19e6-9eba-4711-a724-80881a6c12b7",
+    "Features": {
+      "SimQA": 0.6406863536464936,
+      "MaxChunkSim": 0.6406485460001523,
+      "AvgTopChunkSim": 0.6406485460001523,
+      "Situation": 0.1576722093876295,
+      "Task": 0.23922689002635172,
+      "Action": 0.3251897414222447,
+      "Result": 0.20379554486179383,
+      "Reflection": 0.31752058510725045,
+      "WordCount": 6,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 36
+  },
+  {
+    "SampleId": "4f199ac1-0651-479a-b5a4-af426b072fba",
+    "Features": {
+      "SimQA": 0.4974643923731982,
+      "MaxChunkSim": 0.45047822899172996,
+      "AvgTopChunkSim": 0.4289625059233404,
+      "Situation": 0.30556368002579415,
+      "Task": 0.25648574212134617,
+      "Action": 0.3794207584828653,
+      "Result": 0.24769538263821045,
+      "Reflection": 0.3265389608845166,
+      "WordCount": 129,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 95
+  },
+  {
+    "SampleId": "4f730c99-6c9c-4b4f-bb21-7b7d17f9d9d5",
+    "Features": {
+      "SimQA": 0.48101199057867244,
+      "MaxChunkSim": 0.40834028571336956,
+      "AvgTopChunkSim": 0.3913294269628354,
+      "Situation": 0.28823540297931594,
+      "Task": 0.3616754913694129,
+      "Action": 0.3871960061374213,
+      "Result": 0.33381434005063165,
+      "Reflection": 0.30979182418144957,
+      "WordCount": 134,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 1
+    },
+    "TargetTotalScore": 94
+  },
+  {
+    "SampleId": "4f96ec55-6ee7-4d34-9f69-e378616c39fd",
+    "Features": {
+      "SimQA": 0.6571604482572109,
+      "MaxChunkSim": 0.6008641390787385,
+      "AvgTopChunkSim": 0.5670770163147316,
+      "Situation": 0.2975366734374236,
+      "Task": 0.26888837434122775,
+      "Action": 0.31089764962594607,
+      "Result": 0.218366789493554,
+      "Reflection": 0.3574883278227358,
+      "WordCount": 57,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 83
+  },
+  {
+    "SampleId": "501658f9-fd21-4f3a-aacf-e9b5f6f61ab3",
+    "Features": {
+      "SimQA": 0.5844097495248545,
+      "MaxChunkSim": 0.592329077761451,
+      "AvgTopChunkSim": 0.4955593353157532,
+      "Situation": 0.27574090250060057,
+      "Task": 0.2058431112975583,
+      "Action": 0.32260770179128756,
+      "Result": 0.3023010150759383,
+      "Reflection": 0.34284370602624964,
+      "WordCount": 55,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 83
+  },
+  {
+    "SampleId": "50f3f116-5f3d-4627-a2b2-6fec2bf6ca38",
+    "Features": {
+      "SimQA": 0.4233663461149294,
+      "MaxChunkSim": 0.4172753441700514,
+      "AvgTopChunkSim": 0.3494189329320386,
+      "Situation": 0.2254828783189423,
+      "Task": 0.21699237384137288,
+      "Action": 0.36994612147880807,
+      "Result": 0.29916033805313563,
+      "Reflection": 0.3693674833210922,
+      "WordCount": 68,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 1
+    },
+    "TargetTotalScore": 90
+  },
+  {
+    "SampleId": "5105c39f-b43e-4e4b-8395-2433bb248d7b",
+    "Features": {
+      "SimQA": 0.4941171251877136,
+      "MaxChunkSim": 0.4941171251877136,
+      "AvgTopChunkSim": 0.4941171251877136,
+      "Situation": 0.23297021080589508,
+      "Task": 0.26392195319509715,
+      "Action": 0.32576433607202454,
+      "Result": 0.18503166315514316,
+      "Reflection": 0.2036746216337068,
+      "WordCount": 10,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 40
+  },
+  {
+    "SampleId": "51aa01c4-fcf7-4a37-97f3-0be56f6df7e4",
+    "Features": {
+      "SimQA": 0.5103942497131986,
+      "MaxChunkSim": 0.4803254951144143,
+      "AvgTopChunkSim": 0.4663125654174789,
+      "Situation": 0.26674683932331367,
+      "Task": 0.22063884403882372,
+      "Action": 0.38862099754329377,
+      "Result": 0.2614229844395987,
+      "Reflection": 0.36590799285039793,
+      "WordCount": 63,
+      "ActionVerbHits": 2,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 89
+  },
+  {
+    "SampleId": "55979e4b-fd54-4030-a499-50cf5c4d1475",
+    "Features": {
+      "SimQA": 0.5415110670287805,
+      "MaxChunkSim": 0.5415976366357216,
+      "AvgTopChunkSim": 0.5415976366357216,
+      "Situation": 0.23280798137069666,
+      "Task": 0.19309560316128307,
+      "Action": 0.2731237390892572,
+      "Result": 0.22016926271418455,
+      "Reflection": 0.2859533675470582,
+      "WordCount": 10,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 23
+  },
+  {
+    "SampleId": "565258d0-f0b0-4d3d-97cd-ff116a2bf11a",
+    "Features": {
+      "SimQA": 0.5765429365508175,
+      "MaxChunkSim": 0.5765429365508175,
+      "AvgTopChunkSim": 0.5765429365508175,
+      "Situation": 0.2524622891919829,
+      "Task": 0.2915682431051382,
+      "Action": 0.28546962005450355,
+      "Result": 0.1881751109985211,
+      "Reflection": 0.2833037826429912,
+      "WordCount": 7,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 9
+  },
+  {
+    "SampleId": "582dec6a-c78c-471d-8e70-0fd152f2286b",
+    "Features": {
+      "SimQA": 0.4847845364837293,
+      "MaxChunkSim": 0.4847845364837293,
+      "AvgTopChunkSim": 0.4847845364837293,
+      "Situation": 0.21224717795154285,
+      "Task": 0.1893029476874346,
+      "Action": 0.3953728591287095,
+      "Result": 0.1516836101587569,
+      "Reflection": 0.2422382779411125,
+      "WordCount": 12,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 28
+  },
+  {
+    "SampleId": "5aedf689-566f-4a74-a89c-2c2236864331",
+    "Features": {
+      "SimQA": 0.143962803059941,
+      "MaxChunkSim": 0.143962803059941,
+      "AvgTopChunkSim": 0.143962803059941,
+      "Situation": 0.10459389131830817,
+      "Task": 0,
+      "Action": 0.0768817542103176,
+      "Result": 0.06302100107620212,
+      "Reflection": 0.0755576733015256,
+      "WordCount": 17,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 12
+  },
+  {
+    "SampleId": "5d6269c8-465b-4659-bf75-f16f08ed7ecb",
+    "Features": {
+      "SimQA": 0.09356233468142876,
+      "MaxChunkSim": 0.09356233468142876,
+      "AvgTopChunkSim": 0.09356233468142876,
+      "Situation": 0.15126357744624325,
+      "Task": 0.03218148422565148,
+      "Action": 0.17703273745894874,
+      "Result": 0.06692863869410087,
+      "Reflection": 0.13681758877338546,
+      "WordCount": 18,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 8
+  },
+  {
+    "SampleId": "61e86a8f-fbb5-45e4-aee1-29667fb735ca",
+    "Features": {
+      "SimQA": 0.6217350384117596,
+      "MaxChunkSim": 0.6217350384117596,
+      "AvgTopChunkSim": 0.6217350384117596,
+      "Situation": 0.24761887610250927,
+      "Task": 0.3245098929325341,
+      "Action": 0.3032509757592963,
+      "Result": 0.1474871245783343,
+      "Reflection": 0.39612174161506375,
+      "WordCount": 26,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 24
+  },
+  {
+    "SampleId": "63a45908-0a9c-4cfe-844e-d4077ae67849",
+    "Features": {
+      "SimQA": 0.3958426408394645,
+      "MaxChunkSim": 0.3958725315164931,
+      "AvgTopChunkSim": 0.3958725315164931,
+      "Situation": 0.206142692121449,
+      "Task": 0.19702595105762757,
+      "Action": 0.2641531003160853,
+      "Result": 0.1698751735263755,
+      "Reflection": 0.26039345481753445,
+      "WordCount": 9,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 16
+  },
+  {
+    "SampleId": "64ae9ca2-5d94-4bb1-969b-9e2ee63ba1ae",
+    "Features": {
+      "SimQA": 0.5405379193610224,
+      "MaxChunkSim": 0.5337423013945323,
+      "AvgTopChunkSim": 0.502932888638774,
+      "Situation": 0.2738710517086695,
+      "Task": 0.2959897349894168,
+      "Action": 0.39337190256866383,
+      "Result": 0.2295425614556035,
+      "Reflection": 0.4266429888484495,
+      "WordCount": 65,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 90
+  },
+  {
+    "SampleId": "64e4056d-1488-431d-9c63-4035fa544baa",
+    "Features": {
+      "SimQA": 0.6475692154588186,
+      "MaxChunkSim": 0.6232628924178449,
+      "AvgTopChunkSim": 0.5755158730462346,
+      "Situation": 0.27498735899448595,
+      "Task": 0.2641782925488088,
+      "Action": 0.4034290733958011,
+      "Result": 0.3241752394922631,
+      "Reflection": 0.40470515422778497,
+      "WordCount": 54,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 85
+  },
+  {
+    "SampleId": "658d3355-828f-472f-b275-a03649c8ade3",
+    "Features": {
+      "SimQA": 0.4741247856197549,
+      "MaxChunkSim": 0.4395496288228606,
+      "AvgTopChunkSim": 0.3652896953514011,
+      "Situation": 0.2623584007477546,
+      "Task": 0.3744438039758986,
+      "Action": 0.4087705816217597,
+      "Result": 0.3160298826311498,
+      "Reflection": 0.34461160607720626,
+      "WordCount": 79,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 90
+  },
+  {
+    "SampleId": "65bbef6b-d207-4e41-b4ef-4161a2d4e07a",
+    "Features": {
+      "SimQA": 0.6163182954608573,
+      "MaxChunkSim": 0.5577361338286577,
+      "AvgTopChunkSim": 0.5368064218542723,
+      "Situation": 0.2884121534659959,
+      "Task": 0.3205214232543055,
+      "Action": 0.32244765074295106,
+      "Result": 0.2745943949361081,
+      "Reflection": 0.3939679919814272,
+      "WordCount": 151,
+      "ActionVerbHits": 2,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 97
+  },
+  {
+    "SampleId": "665fc9de-aa64-4fac-a076-2c6ef4bfa1ef",
+    "Features": {
+      "SimQA": 0.6621447091862959,
+      "MaxChunkSim": 0.6621447091862959,
+      "AvgTopChunkSim": 0.6621447091862959,
+      "Situation": 0.24285516741720667,
+      "Task": 0.2511198124986404,
+      "Action": 0.17289489933513227,
+      "Result": 0.10844193853666974,
+      "Reflection": 0.22543854670803265,
+      "WordCount": 27,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 27
+  },
+  {
+    "SampleId": "681073ad-2696-4517-8e99-b4c05e8276c3",
+    "Features": {
+      "SimQA": 0.6633282726364382,
+      "MaxChunkSim": 0.6404739798377319,
+      "AvgTopChunkSim": 0.516928127663959,
+      "Situation": 0.326005165740792,
+      "Task": 0.3245493493244468,
+      "Action": 0.3525462879095838,
+      "Result": 0.3729630827024129,
+      "Reflection": 0.39578385753345097,
+      "WordCount": 70,
+      "ActionVerbHits": 2,
+      "HasFirstPerson": 1,
+      "HasMetrics": 1
+    },
+    "TargetTotalScore": 97
+  },
+  {
+    "SampleId": "69074dcc-e655-4718-a29f-8e248a817bda",
+    "Features": {
+      "SimQA": 0.6622523530409401,
+      "MaxChunkSim": 0.6622282581867723,
+      "AvgTopChunkSim": 0.6622282581867723,
+      "Situation": 0.2226642836867488,
+      "Task": 0.34255853614258347,
+      "Action": 0.3309237766787373,
+      "Result": 0.222595911757991,
+      "Reflection": 0.24673374374049883,
+      "WordCount": 15,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 33
+  },
+  {
+    "SampleId": "6ad073cc-8534-426b-883c-3e9ecc59eeb0",
+    "Features": {
+      "SimQA": 0.6742107050164482,
+      "MaxChunkSim": 0.6417646516845461,
+      "AvgTopChunkSim": 0.5360109527043702,
+      "Situation": 0.2976359873706179,
+      "Task": 0.3871401572373637,
+      "Action": 0.37381045715894995,
+      "Result": 0.29366823879606146,
+      "Reflection": 0.30720214660394946,
+      "WordCount": 100,
+      "ActionVerbHits": 2,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 89
+  },
+  {
+    "SampleId": "6b23e8be-2762-442f-98bf-0b6ff8655569",
+    "Features": {
+      "SimQA": 0.535314652226669,
+      "MaxChunkSim": 0.535314652226669,
+      "AvgTopChunkSim": 0.535314652226669,
+      "Situation": 0.21060460190255278,
+      "Task": 0.2827379799926876,
+      "Action": 0.2247916474917314,
+      "Result": 0.2429423464959637,
+      "Reflection": 0.3383903630321132,
+      "WordCount": 31,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 26
+  },
+  {
+    "SampleId": "6bae99d7-7fea-4d37-9e31-5d788844bac8",
+    "Features": {
+      "SimQA": 0.41939494537575234,
+      "MaxChunkSim": 0.4362392397056961,
+      "AvgTopChunkSim": 0.3946487686268927,
+      "Situation": 0.2561130054059716,
+      "Task": 0.332728597095378,
+      "Action": 0.3592081339958578,
+      "Result": 0.25814907952915744,
+      "Reflection": 0.3384986751714308,
+      "WordCount": 48,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 75
+  },
+  {
+    "SampleId": "6df12522-5f4c-480f-83ab-b15dff3c58e1",
+    "Features": {
+      "SimQA": 0.5006873213272277,
+      "MaxChunkSim": 0.42196891108659673,
+      "AvgTopChunkSim": 0.4002685874974022,
+      "Situation": 0.29806468557165144,
+      "Task": 0.3475981542949577,
+      "Action": 0.41350262138103344,
+      "Result": 0.3483784273993726,
+      "Reflection": 0.3337438645432218,
+      "WordCount": 111,
+      "ActionVerbHits": 2,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 91
+  },
+  {
+    "SampleId": "6f871b97-05b4-4f36-a358-17eea23911c2",
+    "Features": {
+      "SimQA": 0.3802554227937711,
+      "MaxChunkSim": 0.3771402867841628,
+      "AvgTopChunkSim": 0.3186061203901138,
+      "Situation": 0.21400878129197848,
+      "Task": 0.3171152738987721,
+      "Action": 0.27961527832426997,
+      "Result": 0.212061590818576,
+      "Reflection": 0.14613971005322743,
+      "WordCount": 49,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 81
+  },
+  {
+    "SampleId": "70073940-fe95-4073-8e3d-a51e086f3bc6",
+    "Features": {
+      "SimQA": 0.5253065143686763,
+      "MaxChunkSim": 0.4710083820961855,
+      "AvgTopChunkSim": 0.4254580847148721,
+      "Situation": 0.25892423463024833,
+      "Task": 0.26416034707176883,
+      "Action": 0.3507971914214751,
+      "Result": 0.268017072870934,
+      "Reflection": 0.37692682645440173,
+      "WordCount": 63,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 89
+  },
+  {
+    "SampleId": "725dc192-f09c-4a65-b609-802161dd16ae",
+    "Features": {
+      "SimQA": 0.4387690232183353,
+      "MaxChunkSim": 0.4607305845135715,
+      "AvgTopChunkSim": 0.446708826647811,
+      "Situation": 0.24427766337951315,
+      "Task": 0.21940510806662664,
+      "Action": 0.30818974929503284,
+      "Result": 0.236911849359342,
+      "Reflection": 0.26031807031665294,
+      "WordCount": 52,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 88
+  },
+  {
+    "SampleId": "77cb9e29-4af1-42d1-bf4d-bcdbe62e889a",
+    "Features": {
+      "SimQA": 0.31417632933224365,
+      "MaxChunkSim": 0.3308797206870482,
+      "AvgTopChunkSim": 0.3076655961526625,
+      "Situation": 0.2549719855753297,
+      "Task": 0.401045625480381,
+      "Action": 0.41841480958077826,
+      "Result": 0.2842885050744454,
+      "Reflection": 0.3766940407570989,
+      "WordCount": 47,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 89
+  },
+  {
+    "SampleId": "78bdf3d3-d9a1-41c0-9445-c5270708b065",
+    "Features": {
+      "SimQA": 0.5010731607476402,
+      "MaxChunkSim": 0.46026800414141145,
+      "AvgTopChunkSim": 0.44593849283021714,
+      "Situation": 0.2697593442406945,
+      "Task": 0.41638327874341685,
+      "Action": 0.3985280111629631,
+      "Result": 0.3993102743171871,
+      "Reflection": 0.3448486758334428,
+      "WordCount": 54,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 83
+  },
+  {
+    "SampleId": "7c63466d-6567-43e0-882f-c6e8cd2dee4d",
+    "Features": {
+      "SimQA": 0.5346834665296393,
+      "MaxChunkSim": 0.5602862979272734,
+      "AvgTopChunkSim": 0.528016850403387,
+      "Situation": 0.17001840567939447,
+      "Task": 0.18774619306018925,
+      "Action": 0.2922562555284969,
+      "Result": 0.1868608269753104,
+      "Reflection": 0.2732636908642422,
+      "WordCount": 60,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 1
+    },
+    "TargetTotalScore": 95
+  },
+  {
+    "SampleId": "7fb3d07a-0ed9-4856-b724-1a8b818f7fee",
+    "Features": {
+      "SimQA": 0.4458266950955843,
+      "MaxChunkSim": 0.42048071958219146,
+      "AvgTopChunkSim": 0.38259776346932395,
+      "Situation": 0.22217027586683877,
+      "Task": 0.32726328146109385,
+      "Action": 0.3635640200771867,
+      "Result": 0.31914199726763587,
+      "Reflection": 0.2985233570690395,
+      "WordCount": 59,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 1
+    },
+    "TargetTotalScore": 89
+  },
+  {
+    "SampleId": "7fbc49b5-e924-4565-9a33-3dcc6435b33c",
+    "Features": {
+      "SimQA": 0.6197272868997018,
+      "MaxChunkSim": 0.5318979270138291,
+      "AvgTopChunkSim": 0.4540538169177837,
+      "Situation": 0.278331736817428,
+      "Task": 0.26186781283961197,
+      "Action": 0.41292460053308616,
+      "Result": 0.29296264353717255,
+      "Reflection": 0.4249402620844511,
+      "WordCount": 115,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 94
+  },
+  {
+    "SampleId": "806b8c79-a048-4c60-8152-b5f0f07227e8",
+    "Features": {
+      "SimQA": 0.5524221707649382,
+      "MaxChunkSim": 0.5017189887708314,
+      "AvgTopChunkSim": 0.389670550880197,
+      "Situation": 0.30651896643667376,
+      "Task": 0.2823491861573942,
+      "Action": 0.3912794110250527,
+      "Result": 0.3134385774014759,
+      "Reflection": 0.36024838988420876,
+      "WordCount": 77,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 1
+    },
+    "TargetTotalScore": 90
+  },
+  {
+    "SampleId": "821ec849-60d8-430d-af3c-38564607e949",
+    "Features": {
+      "SimQA": 0.4731561653792068,
+      "MaxChunkSim": 0.4731561653792068,
+      "AvgTopChunkSim": 0.4731561653792068,
+      "Situation": 0.21226029195434434,
+      "Task": 0.27031159012062267,
+      "Action": 0.3394004204575908,
+      "Result": 0.24788939846367947,
+      "Reflection": 0.45040219857526625,
+      "WordCount": 12,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 28
+  },
+  {
+    "SampleId": "82e7cf75-bc8e-4771-8949-03fb86a2567c",
+    "Features": {
+      "SimQA": 0.20630149544194662,
+      "MaxChunkSim": 0.20630149544194662,
+      "AvgTopChunkSim": 0.20630149544194662,
+      "Situation": 0.23718375158751429,
+      "Task": 0.3112762767381659,
+      "Action": 0.21672331073717435,
+      "Result": 0.1991607680881382,
+      "Reflection": 0.18266146979418707,
+      "WordCount": 22,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 10
+  },
+  {
+    "SampleId": "85451987-72d3-4c22-84fd-72606461e77e",
+    "Features": {
+      "SimQA": 0.5285908025127113,
+      "MaxChunkSim": 0.3969440116394068,
+      "AvgTopChunkSim": 0.3897654578164196,
+      "Situation": 0.3497289379825423,
+      "Task": 0.3513022659531646,
+      "Action": 0.36822517391497883,
+      "Result": 0.35681396569222745,
+      "Reflection": 0.3701308963584781,
+      "WordCount": 149,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 95
+  },
+  {
+    "SampleId": "88c6a834-a381-4187-a395-aafaf53bc794",
+    "Features": {
+      "SimQA": 0.5852093552797685,
+      "MaxChunkSim": 0.5852093552797685,
+      "AvgTopChunkSim": 0.5852093552797685,
+      "Situation": 0.23292167072643644,
+      "Task": 0.29202050703847804,
+      "Action": 0.27736055742049887,
+      "Result": 0.2869727367298492,
+      "Reflection": 0.22893290426738727,
+      "WordCount": 16,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 18
+  },
+  {
+    "SampleId": "8cd9aef8-b6f1-4514-bc5d-a92e3c202d95",
+    "Features": {
+      "SimQA": 0.47777528404553254,
+      "MaxChunkSim": 0.47777528404553254,
+      "AvgTopChunkSim": 0.47777528404553254,
+      "Situation": 0.28853094246362393,
+      "Task": 0.23670086732867535,
+      "Action": 0.32121083153249425,
+      "Result": 0.13195398159924113,
+      "Reflection": 0.2732406704525984,
+      "WordCount": 29,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 0,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 50
+  },
+  {
+    "SampleId": "8da66612-7cda-4899-a884-dcc1f805e005",
+    "Features": {
+      "SimQA": 0.5169100199521748,
+      "MaxChunkSim": 0.43850052181516735,
+      "AvgTopChunkSim": 0.41158346907151644,
+      "Situation": 0.3330218010867033,
+      "Task": 0.30915219484382517,
+      "Action": 0.3316681254498651,
+      "Result": 0.2788462002969083,
+      "Reflection": 0.2805983698459636,
+      "WordCount": 48,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 66
+  },
+  {
+    "SampleId": "9011b7f6-24e2-4742-82c5-557df0c03ce2",
+    "Features": {
+      "SimQA": 0.3895918882229138,
+      "MaxChunkSim": 0.3171156435010406,
+      "AvgTopChunkSim": 0.27496943544422064,
+      "Situation": 0.31724742758196345,
+      "Task": 0.3238456681730657,
+      "Action": 0.3973636308185559,
+      "Result": 0.26345542199130606,
+      "Reflection": 0.3616439196250572,
+      "WordCount": 108,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 100
+  },
+  {
+    "SampleId": "93813b36-afe9-4c6f-911f-47d5de64ff34",
+    "Features": {
+      "SimQA": 0.5004136241323335,
+      "MaxChunkSim": 0.5004136241323335,
+      "AvgTopChunkSim": 0.5004136241323335,
+      "Situation": 0.21145115077113769,
+      "Task": 0.3242299252189408,
+      "Action": 0.26491733311132265,
+      "Result": 0.2016320454638126,
+      "Reflection": 0.23894675995064568,
+      "WordCount": 38,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 71
+  },
+  {
+    "SampleId": "9395bc24-a9fe-478f-a481-d1845c79fb74",
+    "Features": {
+      "SimQA": 0.42300485350405687,
+      "MaxChunkSim": 0.40419904593821454,
+      "AvgTopChunkSim": 0.3676830567857374,
+      "Situation": 0.24345785788630583,
+      "Task": 0.1736311128999721,
+      "Action": 0.292835834211425,
+      "Result": 0.15945924294351632,
+      "Reflection": 0.29400523732677486,
+      "WordCount": 50,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 90
+  },
+  {
+    "SampleId": "94bd10c2-9ae6-4e10-8947-046bf86befda",
+    "Features": {
+      "SimQA": 0.6547814543960865,
+      "MaxChunkSim": 0.6652683565780043,
+      "AvgTopChunkSim": 0.5439902812092772,
+      "Situation": 0.2424693998389402,
+      "Task": 0.35295257569145405,
+      "Action": 0.4640828008565929,
+      "Result": 0.25941735147257416,
+      "Reflection": 0.3819058494995811,
+      "WordCount": 58,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 76
+  },
+  {
+    "SampleId": "94fb02da-ce82-4b7e-8d84-a8406f293900",
+    "Features": {
+      "SimQA": 0.5259700349715276,
+      "MaxChunkSim": 0.48101997393091134,
+      "AvgTopChunkSim": 0.45984497462184304,
+      "Situation": 0.2716115143212505,
+      "Task": 0.2615327339307174,
+      "Action": 0.2888154678631673,
+      "Result": 0.22658623264795202,
+      "Reflection": 0.23465337629726116,
+      "WordCount": 54,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 82
+  },
+  {
+    "SampleId": "967a4c09-e2f1-4528-8274-44f5a10a4d8d",
+    "Features": {
+      "SimQA": 0.5148859399271946,
+      "MaxChunkSim": 0.5148577481882848,
+      "AvgTopChunkSim": 0.5148577481882848,
+      "Situation": 0.21855456525969963,
+      "Task": 0.14984152721350108,
+      "Action": 0.3277892980447002,
+      "Result": 0.0915338017775966,
+      "Reflection": 0.2795865598748479,
+      "WordCount": 18,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 25
+  },
+  {
+    "SampleId": "96e9821d-f078-4cbb-b5e2-263c54b6118b",
+    "Features": {
+      "SimQA": 0.370575448938909,
+      "MaxChunkSim": 0.36438710275620917,
+      "AvgTopChunkSim": 0.3340913232806997,
+      "Situation": 0.26765846631837314,
+      "Task": 0.17673962891018571,
+      "Action": 0.2899696955733324,
+      "Result": 0.18696162712812744,
+      "Reflection": 0.33995262622810823,
+      "WordCount": 43,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 84
+  },
+  {
+    "SampleId": "9729ccf5-305d-4738-8a7b-f31690d66dbb",
+    "Features": {
+      "SimQA": 0.5677322296803546,
+      "MaxChunkSim": 0.5543346895233631,
+      "AvgTopChunkSim": 0.5149013140509524,
+      "Situation": 0.20378693566623302,
+      "Task": 0.39782637960745515,
+      "Action": 0.377755054020348,
+      "Result": 0.28840087767137174,
+      "Reflection": 0.29688695061086906,
+      "WordCount": 51,
+      "ActionVerbHits": 0,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 80
+  },
+  {
+    "SampleId": "972a2d59-7d7e-462c-850b-f6f70e01b093",
+    "Features": {
+      "SimQA": 0.626684821431218,
+      "MaxChunkSim": 0.5755947965403624,
+      "AvgTopChunkSim": 0.5241086836290301,
+      "Situation": 0.37720588967684854,
+      "Task": 0.2916566619997412,
+      "Action": 0.38192151848322053,
+      "Result": 0.3442939484930579,
+      "Reflection": 0.3905646312959965,
+      "WordCount": 114,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 100
+  },
+  {
+    "SampleId": "992a9414-3942-4863-8867-2c29a6254084",
+    "Features": {
+      "SimQA": 0.5562537594200176,
+      "MaxChunkSim": 0.47457071169694814,
+      "AvgTopChunkSim": 0.4461131855636338,
+      "Situation": 0.30958689543122536,
+      "Task": 0.35230670792789265,
+      "Action": 0.40208263406123335,
+      "Result": 0.3572328967561076,
+      "Reflection": 0.4237352890699656,
+      "WordCount": 125,
+      "ActionVerbHits": 1,
+      "HasFirstPerson": 1,
+      "HasMetrics": 0
+    },
+    "TargetTotalScore": 98
+  }
+]

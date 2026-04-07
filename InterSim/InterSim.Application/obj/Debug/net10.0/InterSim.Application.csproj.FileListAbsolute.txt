@@ -1,0 +1,15 @@
+E:\Licenta final\InterSim\InterSim.Application\bin\Debug\net10.0\InterSim.Application.deps.json
+E:\Licenta final\InterSim\InterSim.Application\bin\Debug\net10.0\InterSim.Application.dll
+E:\Licenta final\InterSim\InterSim.Application\bin\Debug\net10.0\InterSim.Application.pdb
+E:\Licenta final\InterSim\InterSim.Application\bin\Debug\net10.0\InterSim.Domain.dll
+E:\Licenta final\InterSim\InterSim.Application\bin\Debug\net10.0\InterSim.Domain.pdb
+E:\Licenta final\InterSim\InterSim.Application\obj\Debug\net10.0\InterSim.Application.csproj.AssemblyReference.cache
+E:\Licenta final\InterSim\InterSim.Application\obj\Debug\net10.0\InterSim.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Licenta final\InterSim\InterSim.Application\obj\Debug\net10.0\InterSim.Application.AssemblyInfoInputs.cache
+E:\Licenta final\InterSim\InterSim.Application\obj\Debug\net10.0\InterSim.Application.AssemblyInfo.cs
+E:\Licenta final\InterSim\InterSim.Application\obj\Debug\net10.0\InterSim.Application.csproj.CoreCompileInputs.cache
+E:\Licenta final\InterSim\InterSim.Application\obj\Debug\net10.0\InterSim.2835262F.Up2Date
+E:\Licenta final\InterSim\InterSim.Application\obj\Debug\net10.0\InterSim.Application.dll
+E:\Licenta final\InterSim\InterSim.Application\obj\Debug\net10.0\refint\InterSim.Application.dll
+E:\Licenta final\InterSim\InterSim.Application\obj\Debug\net10.0\InterSim.Application.pdb
+E:\Licenta final\InterSim\InterSim.Application\obj\Debug\net10.0\ref\InterSim.Application.dll

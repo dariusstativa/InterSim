@@ -1,0 +1,12 @@
+E:\Licenta final\InterSim\InterSim.Domain\bin\Debug\net10.0\InterSim.Domain.deps.json
+E:\Licenta final\InterSim\InterSim.Domain\bin\Debug\net10.0\InterSim.Domain.dll
+E:\Licenta final\InterSim\InterSim.Domain\bin\Debug\net10.0\InterSim.Domain.pdb
+E:\Licenta final\InterSim\InterSim.Domain\obj\Debug\net10.0\InterSim.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Licenta final\InterSim\InterSim.Domain\obj\Debug\net10.0\InterSim.Domain.AssemblyInfoInputs.cache
+E:\Licenta final\InterSim\InterSim.Domain\obj\Debug\net10.0\InterSim.Domain.AssemblyInfo.cs
+E:\Licenta final\InterSim\InterSim.Domain\obj\Debug\net10.0\InterSim.Domain.csproj.CoreCompileInputs.cache
+E:\Licenta final\InterSim\InterSim.Domain\obj\Debug\net10.0\InterSim.Domain.dll
+E:\Licenta final\InterSim\InterSim.Domain\obj\Debug\net10.0\refint\InterSim.Domain.dll
+E:\Licenta final\InterSim\InterSim.Domain\obj\Debug\net10.0\InterSim.Domain.pdb
+E:\Licenta final\InterSim\InterSim.Domain\obj\Debug\net10.0\ref\InterSim.Domain.dll
+E:\Licenta final\InterSim\InterSim.Domain\obj\Debug\net10.0\InterSim.Domain.csproj.AssemblyReference.cache

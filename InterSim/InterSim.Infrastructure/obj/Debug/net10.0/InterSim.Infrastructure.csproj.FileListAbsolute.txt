@@ -1,0 +1,17 @@
+E:\Licenta final\InterSim\InterSim.Infrastructure\bin\Debug\net10.0\InterSim.Infrastructure.deps.json
+E:\Licenta final\InterSim\InterSim.Infrastructure\bin\Debug\net10.0\InterSim.Infrastructure.dll
+E:\Licenta final\InterSim\InterSim.Infrastructure\bin\Debug\net10.0\InterSim.Infrastructure.pdb
+E:\Licenta final\InterSim\InterSim.Infrastructure\bin\Debug\net10.0\InterSim.Application.dll
+E:\Licenta final\InterSim\InterSim.Infrastructure\bin\Debug\net10.0\InterSim.Domain.dll
+E:\Licenta final\InterSim\InterSim.Infrastructure\bin\Debug\net10.0\InterSim.Application.pdb
+E:\Licenta final\InterSim\InterSim.Infrastructure\bin\Debug\net10.0\InterSim.Domain.pdb
+E:\Licenta final\InterSim\InterSim.Infrastructure\obj\Debug\net10.0\InterSim.Infrastructure.csproj.AssemblyReference.cache
+E:\Licenta final\InterSim\InterSim.Infrastructure\obj\Debug\net10.0\InterSim.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Licenta final\InterSim\InterSim.Infrastructure\obj\Debug\net10.0\InterSim.Infrastructure.AssemblyInfoInputs.cache
+E:\Licenta final\InterSim\InterSim.Infrastructure\obj\Debug\net10.0\InterSim.Infrastructure.AssemblyInfo.cs
+E:\Licenta final\InterSim\InterSim.Infrastructure\obj\Debug\net10.0\InterSim.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Licenta final\InterSim\InterSim.Infrastructure\obj\Debug\net10.0\InterSim.B9684D0F.Up2Date
+E:\Licenta final\InterSim\InterSim.Infrastructure\obj\Debug\net10.0\InterSim.Infrastructure.dll
+E:\Licenta final\InterSim\InterSim.Infrastructure\obj\Debug\net10.0\refint\InterSim.Infrastructure.dll
+E:\Licenta final\InterSim\InterSim.Infrastructure\obj\Debug\net10.0\InterSim.Infrastructure.pdb
+E:\Licenta final\InterSim\InterSim.Infrastructure\obj\Debug\net10.0\ref\InterSim.Infrastructure.dll
